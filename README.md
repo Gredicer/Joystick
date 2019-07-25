@@ -1,6 +1,7 @@
 # Joystick
 
-
+## Preview
+![](../images/Screenrecorder-2019-07-25-13-37-18-529.gif)
 ## Step 1. Add the JitPack repository to your build file
 Add it in your root build.gradle at the end of repositories:
 ```
