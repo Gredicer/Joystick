@@ -1,7 +1,8 @@
 # Joystick
-
+[![](https://jitpack.io/v/Gredicer/Joystick.svg)](https://jitpack.io/#Gredicer/Joystick)
 ## Preview
-![](../images/Screenrecorder-2019-07-25-13-37-18-529.gif)
+![](https://github.com/Gredicer/Joystick/blob/master/images/Screenrecorder-2019-07-25-13-37-18-529.gif)
+
 ## Step 1. Add the JitPack repository to your build file
 Add it in your root build.gradle at the end of repositories:
 ```
@@ -36,7 +37,7 @@ Joystick joystick=findViewById( R.id.joystick );
         joystick.setCircleR( 30 );
 ```
 
-[![](https://jitpack.io/v/Gredicer/Joystick.svg)](https://jitpack.io/#Gredicer/Joystick)
+
 
 
 
